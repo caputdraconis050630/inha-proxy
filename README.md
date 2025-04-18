@@ -12,4 +12,4 @@
 [![데모 비디오](http://img.youtube.com/vi/5O54ZUvjxN8/0.jpg)](https://www.youtube.com/watch?v=5O54ZUvjxN8)
 
 ### 확장 프로그램 주소
-등록 검토 대기중. 업데이트 예정
+https://chromewebstore.google.com/detail/inha-proxy-redirect/oeilakdfbfleoimibehkjfencngdifgl
